@@ -1,0 +1,98 @@
+[
+    {
+        "id": "1",
+        "category": "Color",
+        "title": "Rubio Dorado Premium",
+        "afterUrl": "/img/574565606_2881338948728513_5735802821732093642_n.jpg"
+    },
+    {
+        "id": "2",
+        "category": "Color",
+        "title": "Babylights",
+        "afterUrl": "/img/583335912_2897723333756741_7837874004151699587_n.jpg"
+    },
+    {
+        "id": "3",
+        "category": "Corte",
+        "title": "Corte Texturizado",
+        "afterUrl": "/img/583339155_2897722423756832_3377982945140377848_n.jpg"
+    },
+    {
+        "id": "4",
+        "category": "Color",
+        "title": "Corrección de Color",
+        "afterUrl": "/img/584769957_2897723273756747_3410100722932340220_n.jpg"
+    },
+    {
+        "id": "5",
+        "category": "Tratamiento",
+        "title": "Nutrición Intensiva",
+        "afterUrl": "/img/584985551_2897723470423394_7479242762513839698_n.jpg"
+    },
+    {
+        "id": "6",
+        "category": "Peinado",
+        "title": "Peinado Editorial",
+        "afterUrl": "/img/585436102_2897724057090002_4102521254114430334_n.jpg"
+    },
+    {
+        "id": "7",
+        "category": "Color",
+        "title": "Iluminación Natural",
+        "afterUrl": "/img/586153548_2897724017090006_5838557405979763774_n.jpg"
+    },
+    {
+        "id": "8",
+        "category": "Tratamiento",
+        "title": "Botox Capilar",
+        "afterUrl": "/img/586552303_2897722380423503_6065383027284140757_n.jpg"
+    },
+    {
+        "id": "9",
+        "category": "Color",
+        "title": "Rubio Cálido",
+        "afterUrl": "/img/587031396_2897723427090065_5163096937002605303_n.jpg"
+    },
+    {
+        "id": "10",
+        "category": "Alisado",
+        "title": "Lacio Perfecto",
+        "afterUrl": "/img/587230584_2897722473756827_2481279559518462850_n.jpg"
+    },
+    {
+        "id": "11",
+        "category": "Color",
+        "title": "Money Piece",
+        "afterUrl": "/img/597111943_2920250574837350_3742034193919092740_n.jpg"
+    },
+    {
+        "id": "12",
+        "category": "Peinado",
+        "title": "Ondas al Agua",
+        "afterUrl": "/img/598565781_2920250638170677_1166449569650803047_n.jpg"
+    },
+    {
+        "id": "13",
+        "category": "Corte",
+        "title": "Bob Moderno",
+        "afterUrl": "/img/598970095_2920250401504034_299325091106880780_n.jpg"
+    },
+    {
+        "id": "14",
+        "category": "Tratamiento",
+        "title": "Células Madre",
+        "afterUrl": "/img/600291222_2920250324837375_5439759553759456894_n.jpg"
+    },
+    {
+        "id": "15",
+        "category": "Peinado",
+        "title": "Recogido Glam",
+        "afterUrl": "/img/600303970_2920250434837364_5880956941602764610_n.jpg"
+    },
+    {
+        "id": "16",
+        "category": "Color",
+        "title": "Morena Iluminada",
+        "afterUrl": "/img/600347845_2920250208170720_8789659133928607530_n.jpg"
+    }
+]

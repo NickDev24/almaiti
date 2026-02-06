@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "title": "Colorimetría Avanzada",
+        "description": "Especialistas en rubios dorados, platinos suaves y correcciones. Usamos técnicas como Babylights y Money Piece para iluminar tu rostro. ✨",
+        "priceStart": "$ Consultar",
+        "duration": "4-5h",
+        "image": "/img/597111943_2920250574837350_3742034193919092740_n.jpg"
+    },
+    {
+        "id": "2",
+        "title": "Pack: Sistema PLEX + Corte",
+        "description": "La máxima protección para cabellos procesados. Reconstruye enlaces internos para un cabello sano y fuerte. Incluye corte de diseño. 🛡️",
+        "priceStart": "$30.000 aprox",
+        "duration": "2h",
+        "image": "/img/583339155_2897722423756832_3377982945140377848_n.jpg"
+    },
+    {
+        "id": "3",
+        "title": "Pack: Células Madre + Corte",
+        "description": "Regeneración profunda. Devuelve la masa capilar perdida y otorga un brillo espejo increíble. Ideal para recuperar vitalidad. 🧬",
+        "priceStart": "$28.000 aprox",
+        "duration": "2.5h",
+        "image": "/img/600291222_2920250324837375_5439759553759456894_n.jpg"
+    },
+    {
+        "id": "4",
+        "title": "Nutrición Intensiva + Corte",
+        "description": "Shock de hidratación y nutrición para cabellos secos. Recupera la suavidad y el movimiento natural. 🌸",
+        "priceStart": "$25.000 aprox",
+        "duration": "1.5h",
+        "image": "/img/598565781_2920250638170677_1166449569650803047_n.jpg"
+    },
+    {
+        "id": "5",
+        "title": "Alisado & Modelado",
+        "description": "Alisados fotónicos o keratina orgánica (formol-free). Lacio perfecto, sin frizz y con brillo extremo. ✨",
+        "priceStart": "$ Consultar",
+        "duration": "3h",
+        "image": "/img/600303970_2920250434837364_5880956941602764610_n.jpg"
+    },
+    {
+        "id": "6",
+        "title": "Cortes Editoriales & Peinados",
+        "description": "Desde un Bob Texturizado hasta recogidos Glam para eventos. Diseñamos el estilo que potencia tus facciones. 💇‍♀️",
+        "priceStart": "En Packs",
+        "duration": "1h",
+        "image": "/img/585436102_2897724057090002_4102521254114430334_n.jpg"
+    }
+]

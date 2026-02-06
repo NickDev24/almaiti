@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "name": "Kit Mantenimiento Alisado",
+        "price": "$22.000",
+        "description": "Shampoo y Máscara pH ácido para prolongar tu alisado por meses.",
+        "image": "/img/586552303_2897722380423503_6065383027284140757_n.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Ampollas Nutrición",
+        "price": "$8.500",
+        "description": "Shot de vitaminas para recuperar el cabello entre visitas al salón.",
+        "image": "/img/600291222_2920250324837375_5439759553759456894_n.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Serum Argan Oil",
+        "price": "$12.000",
+        "description": "Oro líquido. Elimina el frizz y sella puntas al instante.",
+        "image": "/img/587230584_2897722473756827_2481279559518462850_n.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Protector Térmico",
+        "price": "$15.000",
+        "description": "Indispensable si usas plancha o secador. Cuida tu fibra capilar.",
+        "image": "/img/600347845_2920250208170720_8789659133928607530_n.jpg"
+    }
+]

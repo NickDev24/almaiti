@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "name": "Valentina R.",
+        "service": "Babylights + Tratamiento",
+        "rating": 5,
+        "comment": "Alma es una genia total. Me hizo un rubio soñado sin arruinar mi pelo. Súper profesional y el estudio impecable. 100% recomendada.",
+        "image": "/img/principal.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Carolina M.",
+        "service": "Alisado Fotónico",
+        "rating": 5,
+        "comment": "Hacía años que no me hacía un alisado por miedo al daño. Alma me explicó todo el proceso, usó productos increíbles y mi cabello quedó lacio pero con vida. Volveré seguro.",
+        "image": "/img/principal.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Lucía G.",
+        "service": "Colorimetría + Corte",
+        "rating": 5,
+        "comment": "El resultado superó mis expectativas. Alma tiene un ojo increíble para el color y me asesoró perfecto. El estudio es hermoso y la atención de primera.",
+        "image": "/img/principal.jpg"
+    }
+]

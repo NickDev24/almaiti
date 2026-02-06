@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "title": "Por qué el sistema PLEX salva tu cabello",
+        "category": "Tecnología Capilar",
+        "date": "15 Ene, 2025",
+        "excerpt": "Si piensas decolorarte, esto es obligatorio. Descubre cómo esta tecnología protege los enlaces internos del cabello durante procesos químicos.",
+        "image": "/img/583339155_2897722423756832_3377982945140377848_n.jpg"
+    },
+    {
+        "id": "2",
+        "title": "Money Piece: La tendencia que ilumina",
+        "category": "Tendencias",
+        "date": "08 Ene, 2025",
+        "excerpt": "Unos pocos mechones frontales pueden cambiarlo todo. La técnica \"Money Piece\" sigue siendo la favorita para dar luz al rostro sin un compromiso total.",
+        "image": "/img/598565781_2920250638170677_1166449569650803047_n.jpg"
+    },
+    {
+        "id": "3",
+        "title": "Células Madre vs Botox: ¿Cuál elijo?",
+        "category": "Tratamientos",
+        "date": "28 Dic, 2024",
+        "excerpt": "Ambos recuperan el cabello, pero actúan diferente. Te explico cuándo necesitas regeneración profunda (Células Madre) y cuándo nutrición (Botox).",
+        "image": "/img/600291222_2920250324837375_5439759553759456894_n.jpg"
+    },
+    {
+        "id": "4",
+        "title": "Rutina para mantener tus Rubios Dorados",
+        "category": "Color Care",
+        "date": "20 Dic, 2024",
+        "excerpt": "El rubio dorado es lujo, pero requiere cuidado. Tips para evitar que se oxide o se vuelva opaco entre visitas al salón.",
+        "image": "/img/597111943_2920250574837350_3742034193919092740_n.jpg"
+    },
+    {
+        "id": "5",
+        "title": "Empoderate con tu cambio de look",
+        "category": "Estilo de Vida",
+        "date": "10 Dic, 2024",
+        "excerpt": "Un cambio de cabello es el primer paso para una nueva actitud. Historias de transformación real en Almaiti.",
+        "image": "/img/585436102_2897724057090002_4102521254114430334_n.jpg"
+    }
+]
