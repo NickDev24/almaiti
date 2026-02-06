@@ -9,6 +9,10 @@ const __dirname = path.dirname(__filename);
 const app = express();
 const PORT = process.env.PORT || 8080;
 
+// Export app for Vercel
+export default app;
+
+
 // Middleware
 app.use(express.json());
 app.use(express.static(path.join(__dirname, 'dist')));
@@ -371,7 +375,10 @@ app.get('*', (req, res) => {
   res.sendFile(path.join(__dirname, 'dist', 'index.html'));
 });
 
-app.listen(PORT, () => {
-  console.log(`✨ Almaiti Server running on port ${PORT}`);
-  console.log(`📁 API endpoints available at http://localhost:${PORT}/api/`);
-});
+// Only listen if not running on Vercel
+if (process.env.NODE_ENV !== 'production' && !process.env.VERCEL) {
+  app.listen(PORT, () => {
+    console.log(`✨ Almaiti Server running on port ${PORT}`);
+    console.log(`📁 API endpoints available at http://localhost:${PORT}/api/`);
+  });
+}
